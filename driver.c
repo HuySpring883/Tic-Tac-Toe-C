@@ -1,4 +1,10 @@
-#include <stdio.h> //Tic Tac Toe
+/*
+C Implementation of Tic-Tac-Toe
+
+General Complexity is Simple
+*/
+
+#include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
 
